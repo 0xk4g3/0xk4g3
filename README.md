@@ -24,36 +24,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>  `~/whoami.sh`
-
-```bash
-$ cat /etc/haithem.conf
-```
-
-```yaml
-identity:
-  name:          Haithem Bendjaballah
-  handle:        0xk4g3
-  origin:        Algeria 🇩🇿  (Kabyle roots • Constantine/Sétif)
-  location:      Abu Dhabi, UAE 🇦🇪
-  school:        42 Abu Dhabi  →  login: hbendjab
-  tagline:       "every binary has a story — and a vulnerability"
-
-roles:
-  - 🥷  CTF Player        (pwn • crypto • web • forensics • rev)
-  - 🎓  GenAI Instructor  @ ADEK (Abu Dhabi Dept. of Education)
-  - 🛡️  Lead              @ LeetSec — 42 AD Cybersecurity Club
-  - 🔧  Ex-Aircraft Maintenance @ Air Algérie
-
-stats:
-  hackathon_wins:      "1st place × N  •  100K+ AED in prizes 💰"
-  preferred_shell:     /bin/zsh  (neovim • kitty • tmux)
-  debugger_of_choice:  "gdb + gef + pwndbg"
-  daily_driver:        "MacBook M2 + VPS @ srv903170"
-```
-
----
-
 ## <img src="https://media.giphy.com/media/iiyhmYdkEifvUKn37L/giphy.gif" width="28"/>  `~/arsenal/`
 
 <div align="center">
@@ -103,184 +73,21 @@ stats:
 
 ---
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"/>  `~/exploits/featured/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏴 `Self-Hosted CTF Platform`
-```
-┌─[ stack ]────────────────────────┐
-│  Docker  •  VPS Ubuntu 24.04     │
-│  ASP.NET Core  +  React/TS       │
-│  PostgreSQL    +  SignalR        │
-│  Flag format:  KU42AD{...}       │
-└──────────────────────────────────┘
-```
-Full CTF infra with pwn / web / crypto
-challenges — each fully containerized.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 `ft_transcendence — Tech Lead`
-```
-┌─[ stack ]────────────────────────┐
-│  ASP.NET Core  •  React/TS       │
-│  PostgreSQL    •  SignalR        │
-│  42 AD capstone-tier project     │
-└──────────────────────────────────┘
-```
-Led architecture & backend for the
-full 42 transcendence project.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 `Inception — 42 Project`
-```
-┌─[ stack ]────────────────────────┐
-│  Docker  •  docker-compose       │
-│  NGINX  +  WordPress  +  MariaDB │
-│  TLS / hardened / from scratch   │
-└──────────────────────────────────┘
-```
-Multi-container infra built from
-zero — no shortcuts, no pre-built
-images.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 `ADEK GenAI Curriculum`
-```
-┌─[ scale ]────────────────────────┐
-│  Abu Dhabi Dept. of Education    │
-│  Instructor  •  Large cohorts    │
-│  Prompting • LLMs • responsible  │
-└──────────────────────────────────┘
-```
-Teaching the next generation of
-Emirati students how to think
-with AI.
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>  `~/ctf/categories/`
-
-```bash
-$ ls -la ~/.pwned/
-```
-
-| category | techniques in the toolkit |
-|---|---|
-| 💥 **pwn** | buffer overflows • format string • ROP / SROP chains • FSOP • heap exploitation (tcache, House of Force) • shellcode bypasses |
-| 🔐 **crypto** | ECDSA nonce reuse • LWE • elliptic curve attacks • Hill cipher • LCG prediction |
-| 🕸️ **web** | XSS • SSTI • SQLi • prototype pollution • CSRF |
-| 🕵️ **forensics** | PCAP analysis • memory dumps • KeePass vault cracking |
-| 🧩 **rev** | WASM • ARM binaries • custom cipher recovery |
-
-<div align="center">
-
-```diff
-+ Placements at ADIPEC Cyber Championships
-+ ClawTheFlag series • CyberQ 2025 • MITRE eCTF 2026
-```
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>  `~/stats/`
 
 <div align="center">
 
-<!-- Stats row -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xk4g3&show_icons=true&theme=chartreuse-dark&bg_color=0a0e27&title_color=00ff41&icon_color=ff0080&text_color=ffffff&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xk4g3&layout=compact&theme=chartreuse-dark&bg_color=0a0e27&title_color=00ff41&text_color=ffffff&border_color=00ff41&hide_border=false&langs_count=8" />
 
-<!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xk4g3&theme=chartreuse-dark&background=0a0e27&border=00ff41&stroke=00ff41&ring=ff0080&fire=ff0080&currStreakLabel=00ff41&sideLabels=00d9ff&dates=ffffff" />
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=0xk4g3&theme=matrix&no-frame=true&no-bg=false&column=7&margin-w=8" />
-
-<br/><br/>
-
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xk4g3&bg_color=0a0e27&color=00ff41&line=ff0080&point=00d9ff&area=true&hide_border=true" />
 
 <br/><br/>
 
-<!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=0xk4g3&style=for-the-badge&color=00ff41&label=INTRUDERS+DETECTED" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/>  `~/now_playing.log`
-
-```c
-// currently executing...
-int main(void) {
-    prepare_talk("ELF binaries & binary exploitation", LEETSEC_42AD);
-    live_demo("buffer overflow w/ pwntools");
-
-    pwn_machine("Postman");        // HackTheBox
-    compete_in_ctfs();             // all categories, all the time
-
-    apply_schengen_visa(HealthHack_2026, Braunschweig, Germany);
-    explore_hackathons("London Tech Week, June 2026");
-    explore_jobs("Switzerland 🇨🇭");
-
-    return 0;  // never actually returns
-}
-```
-
----
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/>  `~/connect/`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/haithem-bendjaballah/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/0xk4g3">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
-</a>
-<a href="https://app.hackthebox.com/">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-<img src="https://img.shields.io/badge/42_Abu_Dhabi-000000?style=for-the-badge&logo=42&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     "if it compiles, ship it.                                ║
-║      if it segfaults, exploit it.                            ║
-║      if it has a flag, capture it."                          ║
-║                                                              ║
-║                                          — k4g3              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a0b2e,100:0a0e27&height=120&section=footer&reversal=true"/>
 
 </div>
