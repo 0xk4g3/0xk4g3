@@ -7,7 +7,7 @@
 
 <!-- ============ TYPING HEADLINE ============ -->
 <a href="https://github.com/0xk4g3">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=root%40k4g3%3A~%23+whoami;%E2%96%B6+Haithem+Bendjaballah+%2F%2F+a.k.a.+k4g3;%E2%96%B6+Binary+Exploitation+%7C+CTF+Player+%7C+GenAI+Instructor;%E2%96%B6+42+Abu+Dhabi+%E2%80%A2+LeetSec+Lead+%E2%80%A2+ADEK+AI;%E2%96%B6+Segfaulting+through+life%2C+one+ROP+chain+at+a+time" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=root%0xk4g3%3A~%23+whoami;%E2%96%B6+Haithem+Bendjaballah+%2F%2F+0xk4g3;%E2%96%B6+Binary+Exploitation+%7C+CTF+Player+%7C+GenAI+Instructor;%E2%96%B6+42+Abu+Dhabi+%E2%80%A2+LeetSec+Lead+%E2%80%A2+ADEK+AI;%E2%96%B6+Segfaulting+through+life%2C+one+ROP+chain+at+a+time" alt="typing-svg"/>
 </a>
 
 <br/>
